@@ -1,0 +1,23 @@
+body{
+    background: rgb(255, 255, 255);
+    
+}
+#header {
+    padding: 20px;
+    text-align: left;
+    text-indent: 5%;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+#content{
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.button{
+    margin-left: 10%;
+    font-size: 18px;
+}
+.pass{
+    margin-left: 0.6%;
+}
